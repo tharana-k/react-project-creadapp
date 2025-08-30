@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-project-creadapp/static/css/main.e6c13ad2.css",
+    "main.js": "/react-project-creadapp/static/js/main.244257f6.js",
+    "static/js/787.265cb7ef.chunk.js": "/react-project-creadapp/static/js/787.265cb7ef.chunk.js",
+    "index.html": "/react-project-creadapp/index.html",
+    "main.e6c13ad2.css.map": "/react-project-creadapp/static/css/main.e6c13ad2.css.map",
+    "main.244257f6.js.map": "/react-project-creadapp/static/js/main.244257f6.js.map",
+    "787.265cb7ef.chunk.js.map": "/react-project-creadapp/static/js/787.265cb7ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.244257f6.js"
+  ]
+}
