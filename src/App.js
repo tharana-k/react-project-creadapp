@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App">
   <Newcontext.Provider value={[data,setData]}>
-<BrowserRouter>
+<BrowserRouter basename="/react-project-creadapp">
 <Routes>
 <Route path='/' element={<Tables/>}  />
 <Route path='/viewpage/:user' element={<Viewpage/>}  />
